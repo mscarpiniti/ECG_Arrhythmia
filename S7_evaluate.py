@@ -94,7 +94,7 @@ yt = np.load(test_lab)
 if (S != 'S7a'):
     y_pred = clf.predict(Xt)
 else:
-    y_pred = np.argmax((Xt[:,:5] + Xt[:,5:])/2)
+    y_pred = np.argmax((Xt[:,:5] + Xt[:,5:])/2, axis=1)
 
 
 # Evaluating the trained model
