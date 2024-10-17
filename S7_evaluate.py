@@ -5,7 +5,7 @@ strategies for the classification of arrhythmia in the MIT-BIH dataset
 (https://www.kaggle.com/datasets/shayanfazeli/heartbeat/), as proposed in [1].
 
 [1] M. Scarpiniti, "Arrhythmia detection by data fusion of ECG scalograms and
-phasograms", submitted to *Expert Systems With Applications*, 2024.
+phasograms", submitted to *Sensors*, 2024.
 
 
 Created on Thu Jul 11 19:30:21 2024
