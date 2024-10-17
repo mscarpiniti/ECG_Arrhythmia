@@ -4,7 +4,7 @@ This file contains useful function used in the main code implementing the
 identification of arrhythmia in ECGs, proposed in [1].
 
 [1] M. Scarpiniti, "Arrhythmia detection by data fusion of ECG scalograms and
-phasograms", submitted to *Expert Systems With Applications*, 2024.
+phasograms", submitted to *Sensors*, 2024.
 
 
 Created on Wed Jul 10 18:09:29 2024
