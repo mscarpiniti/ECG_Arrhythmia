@@ -4,7 +4,7 @@ This file contains main code for implementing the training phase for the
 identification of arrhythmia in ECGs, proposed in [1].
 
 [1] M. Scarpiniti, "Arrhythmia detection by data fusion of ECG scalograms and
-phasograms", submitted to *Expert Systems With Applications*, 2024.
+phasograms", submitted to *Sensors*, 2024.
 
 
 Created on Wed Jul 10 19:41:14 2024
