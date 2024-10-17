@@ -5,7 +5,7 @@ using scalograms and phasograms of ECG signals in the MIT-BIH dataset, as propos
 in [1].
 
 [1] M. Scarpiniti, "Arrhythmia detection by data fusion of ECG scalograms and
-phasograms", submitted to *Expert Systems With Applications*, 2024.
+phasograms", submitted to *Sensors*, 2024.
 
 
 Created on Mon Nov  6 15:47:19 2023
