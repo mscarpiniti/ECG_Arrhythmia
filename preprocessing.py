@@ -39,7 +39,7 @@ def scale(matrix):
 data_folder = './Data/'
 
 # CWT parameters
-fs = 125   # Sample rate
+fs = 250   # Sample rate
 N  = 224   # Number of pixels
 
 # TRaining and test sets
