@@ -6,7 +6,8 @@ Continuous Wavelet Transform (CWT) of ECG signals in the MIT-BIH dataset
 work proposed in [1].
 
 [1] M. Scarpiniti, "Arrhythmia detection by data fusion of ECG scalograms and
-phasograms", submitted to *Sensors*, 2024.
+phasograms", *Sensors*, Vol. 24, N. 24, Paper 8043, December 2024. 
+DOI: https://doi.org/10.3390/s24248043.
 
 
 Created on Mon Nov 27 21:52:26 2023
